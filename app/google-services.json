@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "825149158047",
+    "project_id": "petsdatingapp",
+    "storage_bucket": "petsdatingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825149158047:android:3278d9424d737d210ea8aa",
+        "android_client_info": {
+          "package_name": "com.example.petdatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825149158047-ct7jb8qfqa87g27u9puogo4iq04r95gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petdatingapp",
+            "certificate_hash": "38ca9c91838e1605ca0374ac06abade8030cd57a"
+          }
+        },
+        {
+          "client_id": "825149158047-2f4hrru2m6amme3g8p3o1orbotki8h50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTP3WwmlRSTYsu0Y2puJmimfOzWBWkQsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825149158047-2f4hrru2m6amme3g8p3o1orbotki8h50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

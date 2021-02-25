@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Petdatingapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Text</string>
+    <string name="send">Send</string>
+    <string name="title_activity_community2">CommunityActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_communicity">Communicity</string>
+    <string name="title_match">Match</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_profile">MainActivity</string>
+    <string name="textview">TextView</string>
+    <string name="adoption">Adoption</string>
+    <string name="help">Help</string>
+    <string name="experience">Experience</string>
+    <string name="daily">Daily</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="a_week_away_looking_for_a_pet_store_to_foster">A week away, looking for a pet store to foster</string>
+    <string name="cookie">Cookie</string>
+    <string name="ulrica">Ulrica</string>
+    <string name="home_page">Home page</string>
+    <string name="buding_2_years_old">Buding 2 years old</string>
+    <string name="_2km_away">2km away</string>
+    <string name="coming_soon">coming soon</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <com.lorentzos.flingswipe.SwipeFlingAdapterView
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="630dp"
+        android:background="@color/white"
+        app:rotation_degrees="15.5"
+        tools:context=".MyActivity" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="0.25"
+            android:onClick="goToCommunity"
+            android:text="Community"
+            app:backgroundTint="#9C9C9C" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="0.25"
+            android:onClick="goToMatches"
+            android:text="Match"
+            app:backgroundTint="#9C9C9C" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:gravity="center"
+            android:onClick="goToProfile"
+            android:text="Profile"
+            app:backgroundTint="#9C9C9C" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:gravity="center"
+            android:layout_weight="0.25"
+            android:onClick="logoutUser"
+            android:text="Signout"
+            app:backgroundTint="#A39D9D" />
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
